@@ -13,6 +13,6 @@ We followed the following step to do this task.
 9. After that applied Detectron on same data set.
 10. Results for Detectrons.![image](https://github.com/Usama050/CV_Bns/assets/113973096/bde48069-b1e0-4a05-a0e1-8877d3b4e2ec)
 ![image](https://github.com/Usama050/CV_Bns/assets/113973096/23c7d9bd-431a-4424-b176-90b9a7f727d4)
-Note:some images are not detected. It is because first I did bondingbox and thne I do segmentation in Roboflow, so that is why these pics are not detectable.
+Note:some images are not detected. It is because first I did annotation bondingbox and thne I do segmentation in Roboflow, so that is why these pics are not detectable. Because I can not delet images from Roboflow so I just marked them as null.
 
 
